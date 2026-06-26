@@ -1,2 +1,6 @@
 tmpl/index.html
 awesome-go
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
